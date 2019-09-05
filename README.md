@@ -18,8 +18,8 @@ It should look something like this:
 
 
 1. Name:
-  * Nithu Mathew
+  * *Nithu* **Mathew**
 2. Favorite Color: 
-  * Blue
+  * ~~Blue~~
 3. GitHub repo link:
   * https://github.com/NYUMachineLearning/hw0-nithumathew.git
