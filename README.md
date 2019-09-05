@@ -23,5 +23,3 @@ It should look something like this:
   * Blue
 3. GitHub repo link:
   * https://github.com/NYUMachineLearning/hw0-nithumathew.git
-
-Once you are done, commit your changes, and push to GitHub. 
